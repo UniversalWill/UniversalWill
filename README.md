@@ -1,5 +1,8 @@
-### Hi there 👋
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UniversalWill&theme=dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UniversalWill&theme=dark&)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UniversalWill&theme=dark&show_icons=true)
 <!--
 **UniversalWill/UniversalWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
