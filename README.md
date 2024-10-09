@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UniversalWill&theme=dark&show_icons=true)
 
-![WakApi Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Universal_Will&api_domain=wakapi.universalwill.ru&theme=dark&custom_title=Wakapi%20Week%20Stats&layout=compact)
+![WakApi Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Universal_Will&api_domain=wakapi.universalwill.ru&custom_title=Wakapi%20Week%20Stats&layout=compact&theme=dark)
 <!--
 **UniversalWill/UniversalWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
